@@ -72,4 +72,46 @@
 - how far is lecture hall complex from main gate?
 - lhc location?
 
-## 
+## intent:counselling
+- how do i get NIT Tiruchirapalli?
+- What is the cut off to get CSE in NIT,Trichy?
+- what is the NIRF ranking of NITT?
+- what is the rank to get into a good circuital branch of NITT?
+- How are the placements in  NIT,Trichy?
+- Is it worth going to NIT,Tiruchirapalli?
+- how is the campus life in NIT, Trichy?
+- How is the infrastructure in NIT, Tiruchirapalli?
+- what is the average fee structure of NIT, Trichy?
+- which courses are offered in NIT,Tiruchirapalli?
+
+
+## intent:director
+- who is the director of nitt?
+- who is director?
+- director of the collage?
+- director of the institute?
+- who director of the institute?
+- director of the collage?
+
+## intend:hod_cse
+- who is the hod of cse department
+- who is the head of the department for cse department
+- who is the hod of computer science dept
+- who is the head of department of computer science dept
+
+
+## intend:bio_name
+- what is your name?
+- your name?
+
+
+## intend:bio_who
+- who are you?
+- what are you?
+
+## intend:greet_reply
+- how are you?
+- whats up?
+- how are u doing?
+- Good morning ,how are u?
+
