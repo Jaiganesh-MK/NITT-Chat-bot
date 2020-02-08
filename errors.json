@@ -1,0 +1,26 @@
+[
+  {
+    "text": "what are the working hours of administrative office?",
+    "intent": "admin timing",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9103461503982544
+    }
+  },
+  {
+    "text": "at what time can i come to the admin office?",
+    "intent": "admin timing",
+    "intent_prediction": {
+      "name": "",
+      "confidence": 0.0
+    }
+  },
+  {
+    "text": "functional working hours of the admin office",
+    "intent": "admin timing",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.9103461503982544
+    }
+  }
+]
