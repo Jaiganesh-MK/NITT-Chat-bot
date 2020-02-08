@@ -54,5 +54,21 @@
 - at what time can i come to the admin office?
 - functional working hours of the admin office
 
-## intent:nitt_faq
--
+## intent:festember_events
+- what is the next event?
+- when is pro show?
+- when is edm night?
+- when is choreo nite?
+
+## intent:orion_locations
+- how to reach orion?
+- direction to orion?
+- how far is orion from main gate?
+- orion location?
+
+## intent:lhc_locations
+- how to reach lecture hall?
+- direction to lhc?
+- how far is lecture hall complex from main gate?
+- lhc location?
+
