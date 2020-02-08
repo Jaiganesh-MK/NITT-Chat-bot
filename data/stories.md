@@ -41,3 +41,27 @@
 ## lhc
 * lhc_locations
 - utter_lhcl
+
+## counselling
+* counselling
+- utter_counselling
+
+## director
+* director
+- utter_di
+
+## hod_of_cse
+* hod_cse
+- utter_hodcse
+
+## bioname
+* bio_name
+- utter_name
+
+## biowho
+* bio_who
+- utter_who
+
+## greetreply
+* greet_reply
+- utter_gr
